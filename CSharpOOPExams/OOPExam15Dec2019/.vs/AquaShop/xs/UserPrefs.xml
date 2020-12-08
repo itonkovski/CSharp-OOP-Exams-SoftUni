@@ -4,10 +4,10 @@
       <File FileName="AquaShop/StartUp.cs" Line="18" Column="1" />
       <File FileName="AquaShop/Core/Engine.cs" />
       <File FileName="AquaShop/Core/Controller.cs" />
-      <File FileName="AquaShop/Models/Aquariums/Aquarium.cs" Line="70" Column="1" />
-      <File FileName="AquaShop/Models/Decorations/Decoration.cs" Line="1" Column="1" />
-      <File FileName="AquaShop/Repositories/DecorationRepository.cs" Line="1" Column="4" />
-      <File FileName="AquaShop/Models/Fish/FreshwaterFish.cs" Line="1" Column="1" />
+      <File FileName="AquaShop/Models/Aquariums/Aquarium.cs" />
+      <File FileName="AquaShop/Models/Decorations/Decoration.cs" />
+      <File FileName="AquaShop/Repositories/DecorationRepository.cs" />
+      <File FileName="AquaShop/Models/Fish/FreshwaterFish.cs" />
       <File FileName="AquaShop/Models/Fish/Fish.cs" Line="1" Column="1" />
     </Files>
     <Pads>

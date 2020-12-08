@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{E58B718F-EA15-4DD9-B8E1-C10CCBB6E7A2}|Default">
+  <MonoDevelop.Ide.ItemProperties.Exam12Apr2020 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exam12Apr2020" expanded="True" selected="True">
+            <Node name="Exam12Apr2020" expanded="True">
+              <Node name="01. Structure_Skeleton" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{A3C7F241-92B5-4EDC-ABF3-D587EF8FBFB3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Aquariums/StartUp.cs">
+    <Files>
+      <File FileName="Aquariums.Tests/AquariumsTests.cs" Line="1" Column="1" />
+      <File FileName="Aquariums/Aquarium.cs" Line="1" Column="1" />
+      <File FileName="Aquariums/Fish.cs" Line="1" Column="1" />
+      <File FileName="Aquariums/StartUp.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Aquariums" expanded="True">
+            <Node name="Aquariums" expanded="True">
+              <Node name="StartUp.cs" selected="True" />
+            </Node>
+            <Node name="Aquariums.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Aquariums PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

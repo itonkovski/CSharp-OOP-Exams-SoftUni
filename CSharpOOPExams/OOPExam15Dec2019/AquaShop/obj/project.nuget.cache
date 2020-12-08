@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jASmUWWDpy5Me51uiCJA5uR8hdiP4OAsQHQTsjcKHDbLG3FTMbFPvBdPedg9p9G1424L+wJzStC4HFOWOL/N+w==",
+  "dgSpecHash": "NoiL/1GSuJwicn/uYRlESmyase5fh9sVMcQA6j4QrteWA/AxgWaVCfChZErtbHo36XQ10UZf0BTo9F0AuWMN2Q==",
   "success": true,
-  "projectFilePath": "/Users/ivaylotonkovski/Desktop/OOPExam15Dec2019/AquaShop/AquaShop.csproj",
+  "projectFilePath": "/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam15Dec2019/AquaShop/AquaShop.csproj",
   "expectedPackageFiles": [
     "/Users/ivaylotonkovski/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
   ],

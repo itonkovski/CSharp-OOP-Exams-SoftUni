@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ivaylotonkovski/Desktop/OOPExam15Dec2019/AquaShop/AquaShop.csproj",
+      "projectUniqueName": "/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam15Dec2019/AquaShop/AquaShop.csproj",
       "projectName": "AquaShop",
-      "projectPath": "/Users/ivaylotonkovski/Desktop/OOPExam15Dec2019/AquaShop/AquaShop.csproj",
+      "projectPath": "/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam15Dec2019/AquaShop/AquaShop.csproj",
       "packagesPath": "/Users/ivaylotonkovski/.nuget/packages/",
-      "outputPath": "/Users/ivaylotonkovski/Desktop/OOPExam15Dec2019/AquaShop/obj/",
+      "outputPath": "/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam15Dec2019/AquaShop/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/Exam12Apr2020/Exam12Apr2020.csproj": {}
+  },
+  "projects": {
+    "/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/Exam12Apr2020/Exam12Apr2020.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/Exam12Apr2020/Exam12Apr2020.csproj",
+        "projectName": "Exam12Apr2020",
+        "projectPath": "/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/Exam12Apr2020/Exam12Apr2020.csproj",
+        "packagesPath": "/Users/ivaylotonkovski/.nuget/packages/",
+        "outputPath": "/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/Exam12Apr2020/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ivaylotonkovski/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
