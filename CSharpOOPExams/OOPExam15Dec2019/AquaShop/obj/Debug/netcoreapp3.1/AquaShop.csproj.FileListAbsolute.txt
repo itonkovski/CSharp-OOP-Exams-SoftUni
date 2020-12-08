@@ -1,0 +1,12 @@
+/Users/ivaylotonkovski/Desktop/OOPExam15Dec2019/AquaShop/bin/Debug/netcoreapp3.1/AquaShop.deps.json
+/Users/ivaylotonkovski/Desktop/OOPExam15Dec2019/AquaShop/bin/Debug/netcoreapp3.1/AquaShop.runtimeconfig.json
+/Users/ivaylotonkovski/Desktop/OOPExam15Dec2019/AquaShop/bin/Debug/netcoreapp3.1/AquaShop.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Desktop/OOPExam15Dec2019/AquaShop/bin/Debug/netcoreapp3.1/AquaShop.dll
+/Users/ivaylotonkovski/Desktop/OOPExam15Dec2019/AquaShop/bin/Debug/netcoreapp3.1/AquaShop.pdb
+/Users/ivaylotonkovski/Desktop/OOPExam15Dec2019/AquaShop/obj/Debug/netcoreapp3.1/AquaShop.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Desktop/OOPExam15Dec2019/AquaShop/obj/Debug/netcoreapp3.1/AquaShop.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Desktop/OOPExam15Dec2019/AquaShop/obj/Debug/netcoreapp3.1/AquaShop.AssemblyInfo.cs
+/Users/ivaylotonkovski/Desktop/OOPExam15Dec2019/AquaShop/obj/Debug/netcoreapp3.1/AquaShop.csproj.CoreCompileInputs.cache
+/Users/ivaylotonkovski/Desktop/OOPExam15Dec2019/AquaShop/obj/Debug/netcoreapp3.1/AquaShop.dll
+/Users/ivaylotonkovski/Desktop/OOPExam15Dec2019/AquaShop/obj/Debug/netcoreapp3.1/AquaShop.pdb
+/Users/ivaylotonkovski/Desktop/OOPExam15Dec2019/AquaShop/obj/Debug/netcoreapp3.1/AquaShop.genruntimeconfig.cache

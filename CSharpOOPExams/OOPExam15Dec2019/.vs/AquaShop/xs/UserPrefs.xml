@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{C462E007-CC34-40FC-B846-BC6FF3F35C81}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AquaShop/Models/Fish/Fish.cs">
+    <Files>
+      <File FileName="AquaShop/StartUp.cs" Line="18" Column="1" />
+      <File FileName="AquaShop/Core/Engine.cs" />
+      <File FileName="AquaShop/Core/Controller.cs" />
+      <File FileName="AquaShop/Models/Aquariums/Aquarium.cs" Line="70" Column="1" />
+      <File FileName="AquaShop/Models/Decorations/Decoration.cs" Line="1" Column="1" />
+      <File FileName="AquaShop/Repositories/DecorationRepository.cs" Line="1" Column="4" />
+      <File FileName="AquaShop/Models/Fish/FreshwaterFish.cs" Line="1" Column="1" />
+      <File FileName="AquaShop/Models/Fish/Fish.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AquaShop" expanded="True">
+            <Node name="AquaShop" expanded="True">
+              <Node name="Core" expanded="True" />
+              <Node name="IO" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Aquariums" expanded="True">
+                  <Node name="Contracts" expanded="True" />
+                </Node>
+                <Node name="Decorations" expanded="True">
+                  <Node name="Contracts" expanded="True" />
+                </Node>
+                <Node name="Fish" expanded="True">
+                  <Node name="Contracts" expanded="True" />
+                  <Node name="Fish.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Repositories" expanded="True">
+                <Node name="Contracts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AquaShop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

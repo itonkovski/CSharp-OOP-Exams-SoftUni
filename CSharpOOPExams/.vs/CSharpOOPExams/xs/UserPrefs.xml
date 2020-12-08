@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{CC5ABF8C-584F-44C8-AEB3-5B70764660B3}|Default">
+  <MonoDevelop.Ide.ItemProperties.Exam12Apr2020 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Demo FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharpOOPExams" expanded="True">
+            <Node name="Exam12Apr2020" expanded="True">
+              <Node name="01. Structure_Skeleton" expanded="True">
+                <Node name="CounterStrike" expanded="True">
+                  <Node name="Core" expanded="True">
+                    <Node name="Contracts" expanded="True" />
+                  </Node>
+                  <Node name="IO" expanded="True">
+                    <Node name="Contracts" expanded="True" />
+                  </Node>
+                  <Node name="Models" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
