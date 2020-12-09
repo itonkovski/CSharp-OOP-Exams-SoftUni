@@ -1,0 +1,11 @@
+/Users/ivaylotonkovski/Desktop/OOPExam19Dec2019/SantaWorkshop/obj/Debug/netcoreapp3.0/SantaWorkshop.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Desktop/OOPExam19Dec2019/SantaWorkshop/obj/Debug/netcoreapp3.0/SantaWorkshop.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Desktop/OOPExam19Dec2019/SantaWorkshop/obj/Debug/netcoreapp3.0/SantaWorkshop.AssemblyInfo.cs
+/Users/ivaylotonkovski/Desktop/OOPExam19Dec2019/SantaWorkshop/bin/Debug/netcoreapp3.0/SantaWorkshop
+/Users/ivaylotonkovski/Desktop/OOPExam19Dec2019/SantaWorkshop/bin/Debug/netcoreapp3.0/SantaWorkshop.deps.json
+/Users/ivaylotonkovski/Desktop/OOPExam19Dec2019/SantaWorkshop/bin/Debug/netcoreapp3.0/SantaWorkshop.runtimeconfig.json
+/Users/ivaylotonkovski/Desktop/OOPExam19Dec2019/SantaWorkshop/bin/Debug/netcoreapp3.0/SantaWorkshop.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Desktop/OOPExam19Dec2019/SantaWorkshop/bin/Debug/netcoreapp3.0/SantaWorkshop.dll
+/Users/ivaylotonkovski/Desktop/OOPExam19Dec2019/SantaWorkshop/bin/Debug/netcoreapp3.0/SantaWorkshop.pdb
+/Users/ivaylotonkovski/Desktop/OOPExam19Dec2019/SantaWorkshop/obj/Debug/netcoreapp3.0/SantaWorkshop.dll
+/Users/ivaylotonkovski/Desktop/OOPExam19Dec2019/SantaWorkshop/obj/Debug/netcoreapp3.0/SantaWorkshop.pdb
