@@ -1,40 +1,10 @@
 ﻿<Properties StartupConfiguration="{957DD1B3-8F3C-4484-9135-E566A785B754}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SantaWorkshop/Core/Controller.cs">
-    <Files>
-      <File FileName="SantaWorkshop/Repositories/Contracts/IRepository.cs" Line="1" Column="1" />
-      <File FileName="SantaWorkshop/Repositories/DwarfRepository.cs" Line="38" Column="6" />
-      <File FileName="SantaWorkshop/Repositories/PresentRepository.cs" Line="20" Column="45" />
-      <File FileName="SantaWorkshop/Core/Controller.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SantaWorkshop" expanded="True">
-            <Node name="SantaWorkshop" expanded="True">
-              <Node name="Core" expanded="True">
-                <Node name="Controller.cs" selected="True" />
-              </Node>
-              <Node name="Models" expanded="True">
-                <Node name="Dwarfs" expanded="True">
-                  <Node name="Contracts" expanded="True" />
-                </Node>
-                <Node name="Instruments" expanded="True">
-                  <Node name="Contracts" expanded="True" />
-                </Node>
-                <Node name="Presents" expanded="True">
-                  <Node name="Contracts" expanded="True" />
-                </Node>
-                <Node name="Workshops" expanded="True">
-                  <Node name="Contracts" expanded="True" />
-                </Node>
-              </Node>
-              <Node name="Repositories" expanded="True">
-                <Node name="Contracts" expanded="True" />
-              </Node>
-              <Node name="Utilities" expanded="True">
-                <Node name="Messages" expanded="True" />
-              </Node>
-            </Node>
+            <Node name="SantaWorkshop" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -44,7 +14,9 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.SantaWorkshop PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam19Dec2019/SantaWorkshop/Core/Controller.cs" relfile="SantaWorkshop/Core/Controller.cs" line="80" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

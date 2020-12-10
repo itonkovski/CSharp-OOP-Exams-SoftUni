@@ -16,7 +16,8 @@ namespace SantaWorkshop.Repositories
         }
 
         public IReadOnlyCollection<IPresent> Models =>
-            (IReadOnlyCollection<IPresent>)this.Models;
+            (IReadOnlyCollection<IPresent>)this.models;
+        // might be this.Models, check later
 
         public void Add(IPresent model)
         {

@@ -16,7 +16,8 @@
         }
 
         public IReadOnlyCollection<IDwarf> Models =>
-            (IReadOnlyCollection<IDwarf>)this.Models;
+            (IReadOnlyCollection<IDwarf>)this.models;
+        //might be this.Models, check later
 
         public void Add(IDwarf model)
         {
@@ -31,7 +32,7 @@
         public IDwarf FindByName(string name)
         {
             return this.models
-                .FirstOrDefault(d => d.Name == name);
+                .FirstOrDefault(dw => dw.Name == name);
         }
 
     }
