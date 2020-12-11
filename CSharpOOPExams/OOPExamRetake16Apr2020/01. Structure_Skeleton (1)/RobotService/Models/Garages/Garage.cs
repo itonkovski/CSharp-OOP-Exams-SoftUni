@@ -4,6 +4,7 @@
     using System.Collections.Generic;
     using RobotService.Models.Garages.Contracts;
     using RobotService.Models.Robots.Contracts;
+    using RobotService.Utilities.Messages;
 
     public class Garage : IGarage
     {
@@ -15,16 +16,36 @@
             this.robots = new Dictionary<string, IRobot>();
         }
 
-        public IReadOnlyDictionary<string, IRobot> Robots => throw new NotImplementedException();
+        public IReadOnlyDictionary<string, IRobot> Robots => this.robots;
 
         public void Manufacture(IRobot robot)
         {
-            throw new NotImplementedException();
+            if (this.robots.Count == Capacity)
+            {
+                throw new InvalidOperationException(ExceptionMessages.NotEnoughCapacity);
+            }
+
+            if (this.robots.ContainsKey(robot.Name))
+            {
+                string msg = string.Format(ExceptionMessages.ExistingRobot, robot.Name);
+                throw new ArgumentException(msg);
+            }
+
+            this.robots.Add(robot.Name, robot);
         }
 
         public void Sell(string robotName, string ownerName)
         {
-            throw new NotImplementedException();
+            if (!this.robots.ContainsKey(robotName))
+            {
+                string msg = string.Format(ExceptionMessages.InexistingRobot, robotName);
+                throw new ArgumentException(msg);
+            }
+
+            IRobot robot = this.robots[robotName];
+            robot.Owner = ownerName;
+            robot.IsBought = true;
+            this.robots.Remove(robotName);
         }
     }
 }
