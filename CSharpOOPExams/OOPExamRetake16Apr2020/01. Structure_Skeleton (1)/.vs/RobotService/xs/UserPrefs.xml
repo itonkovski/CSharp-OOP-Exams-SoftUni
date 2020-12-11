@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{4CAC8DD8-5C11-49AC-BBB2-E231A214AB58}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RobotService" expanded="True">
+            <Node name="RobotService" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Garages" expanded="True">
+                  <Node name="Contracts" expanded="True">
+                    <Node name="IGarage.cs" selected="True" />
+                  </Node>
+                </Node>
+                <Node name="Procedures" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RobotService PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

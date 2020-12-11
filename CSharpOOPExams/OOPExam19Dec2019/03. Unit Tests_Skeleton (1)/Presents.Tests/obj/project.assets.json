@@ -1957,16 +1957,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
-      },
-      "Presents/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/Presents.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Presents.dll": {}
-        }
       }
     }
   },
@@ -6440,19 +6430,13 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
-    },
-    "Presents/1.0.0": {
-      "type": "project",
-      "path": "../Presents/Presents.csproj",
-      "msbuildProject": "../Presents/Presents.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "NUnit >= 3.9.0",
-      "NUnit3TestAdapter >= 3.9.0",
-      "Presents >= 1.0.0"
+      "NUnit3TestAdapter >= 3.9.0"
     ]
   },
   "packageFolders": {
@@ -6483,11 +6467,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam19Dec2019/03. Unit Tests_Skeleton (1)/Presents/Presents.csproj": {
-              "projectPath": "/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam19Dec2019/03. Unit Tests_Skeleton (1)/Presents/Presents.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

@@ -1,33 +1,23 @@
 ﻿<Properties StartupConfiguration="{495232D9-8060-4458-96F0-D8B3DC5618B1}|Default">
   <MonoDevelop.Ide.ItemProperties.Presents PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Presents/Bag.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Presents.Tests/PresentsTests.cs">
     <Files>
-      <File FileName="Presents/Bag.cs" Line="1" Column="1" />
+      <File FileName="Presents/Bag.cs" Line="9" Column="1" />
       <File FileName="Presents/StartUp.cs" Line="1" Column="1" />
-      <File FileName="Presents.Tests/PresentsTests.cs" Line="31" Column="49" />
+      <File FileName="Presents.Tests/PresentsTests.cs" Line="12" Column="28" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Presents" expanded="True">
-            <Node name="Presents" expanded="True">
-              <Node name="Bag.cs" selected="True" />
-            </Node>
-            <Node name="Presents.Tests" expanded="True" />
+            <Node name="Presents" expanded="True" />
+            <Node name="Presents.Tests" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="Presents" expanded="True">
-            <Node name="Presents.Tests" expanded="True">
-              <Node name="Presents.Tests" expanded="True">
-                <Node name="PresentsTests" expanded="True">
-                  <Node name="TestIfPresentCtorWorksCorrectly" selected="True" />
-                </Node>
-              </Node>
-            </Node>
-          </Node>
+          <Node name="Presents" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
