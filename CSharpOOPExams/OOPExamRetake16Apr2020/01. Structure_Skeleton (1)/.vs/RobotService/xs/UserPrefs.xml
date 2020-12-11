@@ -1,23 +1,26 @@
 ﻿<Properties StartupConfiguration="{4CAC8DD8-5C11-49AC-BBB2-E231A214AB58}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="RobotService/Models/Robots/Robot.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RobotService/Core/Controller.cs">
     <Files>
-      <File FileName="RobotService/Models/Garages/Garage.cs" Line="41" Column="29" />
-      <File FileName="RobotService/Models/Garages/Contracts/IGarage.cs" Line="1" Column="1" />
-      <File FileName="RobotService/Models/Robots/Robot.cs" Line="1" Column="1" />
+      <File FileName="RobotService/Core/Controller.cs" Line="123" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RobotService" expanded="True">
             <Node name="RobotService" expanded="True">
+              <Node name="Core" expanded="True">
+                <Node name="Contracts" expanded="True" />
+                <Node name="Controller.cs" selected="True" />
+              </Node>
+              <Node name="IO" expanded="True" />
               <Node name="Models" expanded="True">
-                <Node name="Garages" expanded="True">
-                  <Node name="Contracts" expanded="True" />
-                </Node>
+                <Node name="Garages" expanded="True" />
                 <Node name="Procedures" expanded="True" />
-                <Node name="Robots" expanded="True">
-                  <Node name="Robot.cs" selected="True" />
-                </Node>
+                <Node name="Robots" expanded="True" />
+              </Node>
+              <Node name="Utilities" expanded="True">
+                <Node name="Enums" expanded="True" />
+                <Node name="Messages" expanded="True" />
               </Node>
             </Node>
           </Node>

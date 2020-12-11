@@ -1,16 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vcjquPaksnfx+QUVpJb0f4wceHWGSYo8+xCJhrORcQ+0lLFrgFZT6Aqmh+oMXAYxFQHxzUZVurfNpPP7AaiZRQ==",
+  "dgSpecHash": "Zd6tjXomxMnnK+S9/kY/yVM1S5BfAWOyxA3Fza5TeOV6RSlbUw5YYEGENfQurVC2LRKcJTMCtH5C8Byze1gncg==",
   "success": true,
   "projectFilePath": "/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExamRetake16Apr2020/01. Structure_Skeleton (1)/RobotService/RobotService.csproj",
   "expectedPackageFiles": [
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.dotnethostpolicy/2.1.0/microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.dotnethostresolver/2.1.0/microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/2.1.0/microsoft.netcore.platforms.2.1.0.nupkg.sha512",
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.targets/2.1.0/microsoft.netcore.targets.2.1.0.nupkg.sha512",
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+    "/Users/ivaylotonkovski/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
   ],
   "logs": []
 }

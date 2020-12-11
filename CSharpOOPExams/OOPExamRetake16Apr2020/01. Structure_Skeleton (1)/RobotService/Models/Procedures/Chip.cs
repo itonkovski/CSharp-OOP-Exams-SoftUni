@@ -17,6 +17,8 @@
                 throw new ArgumentException(msg);
             }
 
+
+            robot.ProcedureTime -= procedureTime;
             robot.Happiness -= 5;
             robot.IsChipped = true;
             this.Robots.Add(robot);

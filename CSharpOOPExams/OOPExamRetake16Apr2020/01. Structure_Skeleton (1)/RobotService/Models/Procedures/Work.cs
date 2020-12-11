@@ -8,6 +8,7 @@
         {
             base.DoService(robot, procedureTime);
 
+            robot.ProcedureTime -= procedureTime;
             robot.Energy -= 6;
             robot.Happiness += 12;
             this.Robots.Add(robot);

@@ -33,8 +33,6 @@
 
         public virtual void DoService(IRobot robot, int procedureTime)
         {
-            robot.ProcedureTime -= procedureTime;
-
             if (robot.ProcedureTime < procedureTime)
             {
                 throw new ArgumentException(ExceptionMessages.InsufficientProcedureTime);
