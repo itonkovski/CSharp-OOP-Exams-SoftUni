@@ -17,19 +17,35 @@ namespace CounterStrike.Models.Maps
 
             while (terrorists.Any(x => x.IsAlive) && counterTerrorists.Any(x => x.IsAlive))
             {
-                foreach (var terrorist in terrorists.Where(t => t.IsAlive))
+                foreach (var terrorist in terrorists)
                 {
-                    foreach (var ct in counterTerrorists.Where(x => x.IsAlive))
+                    if (!terrorist.IsAlive)
                     {
+                        continue;
+                    }
+                    foreach (var ct in counterTerrorists)
+                    {
+                        if (!ct.IsAlive)
+                        {
+                            continue;
+                        }
                         ct.TakeDamage(terrorist.Gun.Fire());
                     }
                 }
 
-                foreach (var counterTerro in counterTerrorists.Where(ct => ct.IsAlive))
+                foreach (var counterTerro in counterTerrorists)
                 {
-                    
-                    foreach (var terro in terrorists.Where(x => x.IsAlive))
+                    if (!counterTerro.IsAlive)
                     {
+                        continue;
+                    }
+                    
+                    foreach (var terro in terrorists)
+                    {
+                        if (!terro.IsAlive)
+                        {
+                            continue;
+                        }
                         terro.TakeDamage(counterTerro.Gun.Fire());
                     }
                 }
@@ -38,12 +54,14 @@ namespace CounterStrike.Models.Maps
 
             if (terrorists.Any(x => x.IsAlive))
             {
-                return "Terrorist win!";
+                result =  "Terrorist win!";
             }
             else
             {
-                return "Counter Terrorist wins!";
+                result =  "Counter Terrorist wins!";
             }
+
+            return result;
         }
     }
 }
