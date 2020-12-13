@@ -1,10 +1,6 @@
 ﻿<Properties StartupConfiguration="{83D6EA8B-79D5-4EB4-8F9B-652E8656597C}|Default">
   <MonoDevelop.Ide.ItemProperties.Computers PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Computers/Computer.cs">
-    <Files>
-      <File FileName="Computers/Computer.cs" Line="1" Column="1" />
-      <File FileName="Computers.Tests/ComputerTests.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -13,6 +9,19 @@
               <Node name="Computer.cs" selected="True" />
             </Node>
             <Node name="Computers.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Computers" expanded="True">
+            <Node name="Computers.Tests" expanded="True">
+              <Node name="Computers.Tests" expanded="True">
+                <Node name="ComputerTests" expanded="True">
+                  <Node name="GetPartMethoInvalidPartShouldReturnNull" selected="True" />
+                </Node>
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
