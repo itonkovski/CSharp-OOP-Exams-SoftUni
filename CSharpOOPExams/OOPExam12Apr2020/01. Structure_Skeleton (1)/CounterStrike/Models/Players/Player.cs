@@ -86,12 +86,6 @@ namespace CounterStrike.Models.Players
 
         public void TakeDamage(int points)
         {
-            //TODO: check if i need?
-            //if (!this.IsAlive)
-            //{
-            //    return;
-            //}
-
             this.Armor -= points;
 
             if (this.Armor > 0)

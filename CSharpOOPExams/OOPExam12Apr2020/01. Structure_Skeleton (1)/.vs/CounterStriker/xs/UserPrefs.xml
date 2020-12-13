@@ -1,15 +1,19 @@
 ﻿<Properties StartupConfiguration="{0ED77E2F-8F32-4BD5-AD14-DD76D14AB3EB}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CounterStrike/Models/Players/Player.cs">
+    <Files>
+      <File FileName="CounterStrike/Models/Guns/Rifle.cs" Line="24" Column="1" />
+      <File FileName="CounterStrike/Models/Players/Player.cs" Line="89" Column="15" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CounterStriker" expanded="True">
             <Node name="CounterStrike" expanded="True">
               <Node name="Models" expanded="True">
-                <Node name="Maps" expanded="True" />
-              </Node>
-              <Node name="Repositories" expanded="True">
-                <Node name="GunRepository.cs" selected="True" />
+                <Node name="Guns" expanded="True" />
+                <Node name="Players" expanded="True">
+                  <Node name="Player.cs" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>

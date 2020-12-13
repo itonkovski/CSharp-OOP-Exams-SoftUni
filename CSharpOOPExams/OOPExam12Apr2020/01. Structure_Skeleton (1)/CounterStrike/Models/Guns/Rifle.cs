@@ -11,7 +11,6 @@ namespace CounterStrike.Models.Guns.Contracts
 
         public override int Fire()
         {
-            //TODO: Check about 9 bullets?
             if (this.BulletsCount < 10)
             {
                 return 0;
