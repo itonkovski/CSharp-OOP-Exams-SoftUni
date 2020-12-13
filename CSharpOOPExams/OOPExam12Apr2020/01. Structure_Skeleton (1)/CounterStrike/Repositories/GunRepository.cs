@@ -11,6 +11,11 @@ namespace CounterStrike.Repositories
     {
         private readonly List<IGun> guns;
 
+        public GunRepository()
+        {
+            this.guns = new List<IGun>();
+        }
+
         public IReadOnlyCollection<IGun> Models
             => guns;
 

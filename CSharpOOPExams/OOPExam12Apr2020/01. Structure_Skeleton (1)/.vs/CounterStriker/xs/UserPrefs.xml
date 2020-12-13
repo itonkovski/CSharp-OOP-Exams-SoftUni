@@ -6,9 +6,10 @@
           <Node name="CounterStriker" expanded="True">
             <Node name="CounterStrike" expanded="True">
               <Node name="Models" expanded="True">
-                <Node name="Maps" expanded="True">
-                  <Node name="Map.cs" selected="True" />
-                </Node>
+                <Node name="Maps" expanded="True" />
+              </Node>
+              <Node name="Repositories" expanded="True">
+                <Node name="GunRepository.cs" selected="True" />
               </Node>
             </Node>
           </Node>
