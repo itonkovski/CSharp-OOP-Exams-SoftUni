@@ -1,0 +1,12 @@
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam12Apr2020/01. Structure_Skeleton (1)/CounterStrike/bin/Debug/netcoreapp3.1/CounterStrike.deps.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam12Apr2020/01. Structure_Skeleton (1)/CounterStrike/bin/Debug/netcoreapp3.1/CounterStrike.runtimeconfig.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam12Apr2020/01. Structure_Skeleton (1)/CounterStrike/bin/Debug/netcoreapp3.1/CounterStrike.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam12Apr2020/01. Structure_Skeleton (1)/CounterStrike/bin/Debug/netcoreapp3.1/CounterStrike.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam12Apr2020/01. Structure_Skeleton (1)/CounterStrike/bin/Debug/netcoreapp3.1/CounterStrike.pdb
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam12Apr2020/01. Structure_Skeleton (1)/CounterStrike/obj/Debug/netcoreapp3.1/CounterStrike.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam12Apr2020/01. Structure_Skeleton (1)/CounterStrike/obj/Debug/netcoreapp3.1/CounterStrike.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam12Apr2020/01. Structure_Skeleton (1)/CounterStrike/obj/Debug/netcoreapp3.1/CounterStrike.AssemblyInfo.cs
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam12Apr2020/01. Structure_Skeleton (1)/CounterStrike/obj/Debug/netcoreapp3.1/CounterStrike.csproj.CoreCompileInputs.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam12Apr2020/01. Structure_Skeleton (1)/CounterStrike/obj/Debug/netcoreapp3.1/CounterStrike.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam12Apr2020/01. Structure_Skeleton (1)/CounterStrike/obj/Debug/netcoreapp3.1/CounterStrike.pdb
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam12Apr2020/01. Structure_Skeleton (1)/CounterStrike/obj/Debug/netcoreapp3.1/CounterStrike.genruntimeconfig.cache

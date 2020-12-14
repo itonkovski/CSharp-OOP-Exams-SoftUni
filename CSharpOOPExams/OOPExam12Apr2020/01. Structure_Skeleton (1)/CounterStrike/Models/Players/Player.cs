@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 using CounterStrike.Models.Guns.Contracts;
 using CounterStrike.Models.Players.Contracts;
 using CounterStrike.Utilities.Messages;
@@ -106,21 +107,19 @@ namespace CounterStrike.Models.Players
             {
                 this.Health = 0;
             }
+        }
 
-            //if (this.Armor > 0)
-            //{
-            //    this.Armor -= points;
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
 
-            //    if (this.Armor < 0)
-            //    {
-            //        this.Health -= this.Armor * -1;
-            //        this.Armor = 0;
-            //    }
-            //}
-            //else
-            //{
-            //    this.Health -= points;
-            //}
+            sb
+                .AppendLine($"{this.GetType().Name}: {this.Username}")
+                .AppendLine($"--Health: {this.Health}")
+                .AppendLine($"--Armor: {this.Armor}")
+                .AppendLine($"--Gun: {this.Gun.Name}");
+
+            return sb.ToString().TrimEnd();
         }
     }
 }

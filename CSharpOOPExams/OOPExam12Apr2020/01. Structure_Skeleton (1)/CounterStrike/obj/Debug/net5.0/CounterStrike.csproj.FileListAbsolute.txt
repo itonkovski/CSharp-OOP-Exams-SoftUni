@@ -1,0 +1,15 @@
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam12Apr2020/01. Structure_Skeleton (1)/CounterStrike/bin/Debug/net5.0/CounterStrike.deps.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam12Apr2020/01. Structure_Skeleton (1)/CounterStrike/bin/Debug/net5.0/CounterStrike.runtimeconfig.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam12Apr2020/01. Structure_Skeleton (1)/CounterStrike/bin/Debug/net5.0/CounterStrike.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam12Apr2020/01. Structure_Skeleton (1)/CounterStrike/bin/Debug/net5.0/CounterStrike.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam12Apr2020/01. Structure_Skeleton (1)/CounterStrike/bin/Debug/net5.0/ref/CounterStrike.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam12Apr2020/01. Structure_Skeleton (1)/CounterStrike/bin/Debug/net5.0/CounterStrike.pdb
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam12Apr2020/01. Structure_Skeleton (1)/CounterStrike/obj/Debug/net5.0/CounterStrike.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam12Apr2020/01. Structure_Skeleton (1)/CounterStrike/obj/Debug/net5.0/CounterStrike.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam12Apr2020/01. Structure_Skeleton (1)/CounterStrike/obj/Debug/net5.0/CounterStrike.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam12Apr2020/01. Structure_Skeleton (1)/CounterStrike/obj/Debug/net5.0/CounterStrike.AssemblyInfo.cs
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam12Apr2020/01. Structure_Skeleton (1)/CounterStrike/obj/Debug/net5.0/CounterStrike.csproj.CoreCompileInputs.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam12Apr2020/01. Structure_Skeleton (1)/CounterStrike/obj/Debug/net5.0/CounterStrike.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam12Apr2020/01. Structure_Skeleton (1)/CounterStrike/obj/Debug/net5.0/ref/CounterStrike.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam12Apr2020/01. Structure_Skeleton (1)/CounterStrike/obj/Debug/net5.0/CounterStrike.pdb
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExam12Apr2020/01. Structure_Skeleton (1)/CounterStrike/obj/Debug/net5.0/CounterStrike.genruntimeconfig.cache
