@@ -1,8 +1,7 @@
 ﻿<Properties StartupConfiguration="{0ED77E2F-8F32-4BD5-AD14-DD76D14AB3EB}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="CounterStrike/Models/Players/Player.cs">
     <Files>
-      <File FileName="CounterStrike/Models/Guns/Rifle.cs" Line="24" Column="1" />
-      <File FileName="CounterStrike/Models/Players/Player.cs" Line="89" Column="15" />
+      <File FileName="CounterStrike/Models/Players/Player.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

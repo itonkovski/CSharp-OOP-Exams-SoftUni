@@ -86,22 +86,41 @@ namespace CounterStrike.Models.Players
 
         public void TakeDamage(int points)
         {
-            this.Armor -= points;
-
-            if (this.Armor > 0)
+            if (this.Armor >= points)
             {
                 this.Armor -= points;
-
-                if (this.Armor < 0)
-                {
-                    this.Health -= this.Armor * -1;
-                    this.Armor = 0;
-                }
+                return;
             }
             else
             {
-                this.Health -= points;
+                points -= this.Armor;
+                this.Armor = 0;
             }
+
+            if (this.Health >= points)
+            {
+                this.Health -= points;
+                return;
+            }
+            else
+            {
+                this.Health = 0;
+            }
+
+            //if (this.Armor > 0)
+            //{
+            //    this.Armor -= points;
+
+            //    if (this.Armor < 0)
+            //    {
+            //        this.Health -= this.Armor * -1;
+            //        this.Armor = 0;
+            //    }
+            //}
+            //else
+            //{
+            //    this.Health -= points;
+            //}
         }
     }
 }
