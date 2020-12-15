@@ -1,5 +1,35 @@
 ﻿<Properties StartupConfiguration="{0ED77E2F-8F32-4BD5-AD14-DD76D14AB3EB}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CounterStrike/Repositories/PlayerRepository.cs">
+    <Files>
+      <File FileName="CounterStrike/Models/Guns/Gun.cs" Line="1" Column="1" />
+      <File FileName="CounterStrike/Models/Players/Player.cs" Line="1" Column="1" />
+      <File FileName="CounterStrike/Models/Maps/Map.cs" Line="1" Column="1" />
+      <File FileName="CounterStrike/Repositories/GunRepository.cs" Line="1" Column="1" />
+      <File FileName="CounterStrike/Repositories/PlayerRepository.cs" Line="1" Column="1" />
+      <File FileName="CounterStrike/Core/Controller.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CounterStriker" expanded="True">
+            <Node name="CounterStrike" expanded="True">
+              <Node name="Core" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Guns" expanded="True" />
+                <Node name="Maps" expanded="True" />
+                <Node name="Players" expanded="True">
+                  <Node name="Contracts" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Repositories" expanded="True">
+                <Node name="PlayerRepository.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.CounterStrike PreferredExecutionTarget="MonoDevelop.Default" />
