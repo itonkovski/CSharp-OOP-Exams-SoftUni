@@ -4,22 +4,7 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RobotService" expanded="True">
-            <Node name="RobotService" expanded="True">
-              <Node name="Core" expanded="True">
-                <Node name="Contracts" expanded="True" />
-                <Node name="Controller.cs" selected="True" />
-              </Node>
-              <Node name="IO" expanded="True" />
-              <Node name="Models" expanded="True">
-                <Node name="Garages" expanded="True" />
-                <Node name="Procedures" expanded="True" />
-                <Node name="Robots" expanded="True" />
-              </Node>
-              <Node name="Utilities" expanded="True">
-                <Node name="Enums" expanded="True" />
-                <Node name="Messages" expanded="True" />
-              </Node>
-            </Node>
+            <Node name="RobotService" expanded="True" />
           </Node>
         </State>
       </Pad>

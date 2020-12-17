@@ -14,15 +14,7 @@
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="Computers" expanded="True">
-            <Node name="Computers.Tests" expanded="True">
-              <Node name="Computers.Tests" expanded="True">
-                <Node name="ComputerTests" expanded="True">
-                  <Node name="GetPartMethoInvalidPartShouldReturnNull" selected="True" />
-                </Node>
-              </Node>
-            </Node>
-          </Node>
+          <Node name="Computers" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>

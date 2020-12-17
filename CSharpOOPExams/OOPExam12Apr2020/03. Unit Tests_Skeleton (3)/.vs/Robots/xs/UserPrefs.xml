@@ -4,18 +4,17 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Robots" expanded="True" />
+          <Node name="Robots" expanded="True">
+            <Node name="Robots" expanded="True">
+              <Node name="RobotManager.cs" selected="True" />
+            </Node>
+            <Node name="Robots.Tests" expanded="True" />
+          </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="Robots" expanded="True">
-            <Node name="Robots.Tests" expanded="True">
-              <Node name="Robots.Tests" expanded="True">
-                <Node name="RobotsTests" expanded="True" selected="True" />
-              </Node>
-            </Node>
-          </Node>
+          <Node name="Robots" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
