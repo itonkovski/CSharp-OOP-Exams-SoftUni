@@ -70,7 +70,7 @@ namespace EasterRaces.Models.Races.Entities
 
             if (this.drivers.Any(d => d.Name == driver.Name))
             {
-                throw new ArgumentNullException($"Driver {driver.Name} is already added in {this.Name} race.");
+                throw new ArgumentNullException(nameof(IDriver), "Driver {driver.Name} is already added in {this.Name} race.");
             }
 
             this.drivers.Add(driver);

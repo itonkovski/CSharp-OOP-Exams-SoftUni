@@ -1,0 +1,12 @@
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExamRetake22August2020/Exam-Skeleton/EasterRaces/bin/Debug/netcoreapp3.1/EasterRaces.deps.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExamRetake22August2020/Exam-Skeleton/EasterRaces/bin/Debug/netcoreapp3.1/EasterRaces.runtimeconfig.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExamRetake22August2020/Exam-Skeleton/EasterRaces/bin/Debug/netcoreapp3.1/EasterRaces.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExamRetake22August2020/Exam-Skeleton/EasterRaces/bin/Debug/netcoreapp3.1/EasterRaces.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExamRetake22August2020/Exam-Skeleton/EasterRaces/bin/Debug/netcoreapp3.1/EasterRaces.pdb
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExamRetake22August2020/Exam-Skeleton/EasterRaces/obj/Debug/netcoreapp3.1/EasterRaces.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExamRetake22August2020/Exam-Skeleton/EasterRaces/obj/Debug/netcoreapp3.1/EasterRaces.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExamRetake22August2020/Exam-Skeleton/EasterRaces/obj/Debug/netcoreapp3.1/EasterRaces.AssemblyInfo.cs
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExamRetake22August2020/Exam-Skeleton/EasterRaces/obj/Debug/netcoreapp3.1/EasterRaces.csproj.CoreCompileInputs.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExamRetake22August2020/Exam-Skeleton/EasterRaces/obj/Debug/netcoreapp3.1/EasterRaces.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExamRetake22August2020/Exam-Skeleton/EasterRaces/obj/Debug/netcoreapp3.1/EasterRaces.pdb
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExamRetake22August2020/Exam-Skeleton/EasterRaces/obj/Debug/netcoreapp3.1/EasterRaces.genruntimeconfig.cache
