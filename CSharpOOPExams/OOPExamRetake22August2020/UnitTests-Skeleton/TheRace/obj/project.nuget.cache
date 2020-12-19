@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6YxWVY1uUDcEccqqydJOAJdp3DVSP3yZ3IfINQumOrfTM4zGjp1WnlaR03CrQpG1ZFQ87VhUxunCXpI8hmh0Fw==",
+  "success": true,
+  "projectFilePath": "/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExamRetake22August2020/UnitTests-Skeleton/TheRace/TheRace.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivaylotonkovski/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

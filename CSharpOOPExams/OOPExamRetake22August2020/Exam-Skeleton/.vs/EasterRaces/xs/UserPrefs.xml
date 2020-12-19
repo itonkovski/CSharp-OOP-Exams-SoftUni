@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{F64E8B64-0C00-4849-A23E-56E558465E38}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="EasterRaces/Models/Races/Entities/Race.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EasterRaces/Core/Entities/ChampionshipController.cs">
     <Files>
-      <File FileName="EasterRaces/Core/Entities/ChampionshipController.cs" Line="139" Column="58" />
+      <File FileName="EasterRaces/Core/Entities/ChampionshipController.cs" Line="165" Column="2" />
       <File FileName="EasterRaces/StartUp.cs" Line="12" Column="50" />
-      <File FileName="EasterRaces/Models/Races/Entities/Race.cs" Line="73" Column="49" />
+      <File FileName="EasterRaces/Models/Races/Entities/Race.cs" Line="73" Column="66" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,7 +12,9 @@
             <Node name="EasterRaces" expanded="True">
               <Node name="Core" expanded="True">
                 <Node name="Contracts" expanded="True" />
-                <Node name="Entities" expanded="True" />
+                <Node name="Entities" expanded="True">
+                  <Node name="ChampionshipController.cs" selected="True" />
+                </Node>
               </Node>
               <Node name="Models" expanded="True">
                 <Node name="Cars" expanded="True">
@@ -20,9 +22,7 @@
                 </Node>
                 <Node name="Drivers" expanded="True" />
                 <Node name="Races" expanded="True">
-                  <Node name="Entities" expanded="True">
-                    <Node name="Race.cs" selected="True" />
-                  </Node>
+                  <Node name="Entities" expanded="True" />
                 </Node>
               </Node>
               <Node name="Repositories" expanded="True">

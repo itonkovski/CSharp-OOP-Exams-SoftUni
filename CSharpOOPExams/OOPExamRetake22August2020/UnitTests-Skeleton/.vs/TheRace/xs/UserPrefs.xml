@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{42719488-AD6B-48B7-ACCC-194200677A8F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TheRace.Tests/RaceEntryTests.cs">
+    <Files>
+      <File FileName="TheRace/RaceEntry.cs" Line="11" Column="44" />
+      <File FileName="TheRace.Tests/RaceEntryTests.cs" Line="78" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TheRace" expanded="True">
+            <Node name="TheRace" expanded="True" />
+            <Node name="TheRace.Tests" expanded="True">
+              <Node name="RaceEntryTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TheRace" expanded="True">
+            <Node name="TheRace.Tests" expanded="True">
+              <Node name="TheRace.Tests" expanded="True">
+                <Node name="RaceEntryTests" expanded="True" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TheRace.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
