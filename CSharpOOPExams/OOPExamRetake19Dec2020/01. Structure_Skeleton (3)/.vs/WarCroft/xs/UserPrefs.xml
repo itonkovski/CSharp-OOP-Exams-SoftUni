@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{2D310817-D7D5-4F6B-964D-B25F010DCA34}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Entities/Characters/Character.cs">
+    <Files>
+      <File FileName="Entities/Inventory/Bag.cs" Line="53" Column="10" />
+      <File FileName="Entities/Inventory/Contracts/IBag.cs" Line="1" Column="1" />
+      <File FileName="Entities/Items/HealthPotion.cs" Line="18" Column="13" />
+      <File FileName="Entities/Characters/Character.cs" Line="15" Column="35" />
+      <File FileName="Entities/Items/FirePotion.cs" Line="1" Column="1" />
+      <File FileName="Entities/Characters/Priest.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WarCroft" expanded="True">
+            <Node name="WarCroft" expanded="True">
+              <Node name="Constants" expanded="True" />
+              <Node name="Core" expanded="True" />
+              <Node name="Entities" expanded="True">
+                <Node name="Characters" expanded="True">
+                  <Node name="Character.cs" selected="True" />
+                </Node>
+                <Node name="Inventory" expanded="True">
+                  <Node name="Contracts" expanded="True" />
+                </Node>
+                <Node name="Items" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WarCroft PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

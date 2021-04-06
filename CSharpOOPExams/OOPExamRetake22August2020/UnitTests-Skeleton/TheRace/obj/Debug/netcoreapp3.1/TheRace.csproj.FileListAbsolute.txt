@@ -1,9 +1,0 @@
-/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExamRetake22August2020/UnitTests-Skeleton/TheRace/bin/Debug/netcoreapp3.1/TheRace.deps.json
-/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExamRetake22August2020/UnitTests-Skeleton/TheRace/bin/Debug/netcoreapp3.1/TheRace.dll
-/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExamRetake22August2020/UnitTests-Skeleton/TheRace/bin/Debug/netcoreapp3.1/TheRace.pdb
-/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExamRetake22August2020/UnitTests-Skeleton/TheRace/obj/Debug/netcoreapp3.1/TheRace.csprojAssemblyReference.cache
-/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExamRetake22August2020/UnitTests-Skeleton/TheRace/obj/Debug/netcoreapp3.1/TheRace.AssemblyInfoInputs.cache
-/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExamRetake22August2020/UnitTests-Skeleton/TheRace/obj/Debug/netcoreapp3.1/TheRace.AssemblyInfo.cs
-/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExamRetake22August2020/UnitTests-Skeleton/TheRace/obj/Debug/netcoreapp3.1/TheRace.csproj.CoreCompileInputs.cache
-/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExamRetake22August2020/UnitTests-Skeleton/TheRace/obj/Debug/netcoreapp3.1/TheRace.dll
-/Users/ivaylotonkovski/Documents/GitHub/CSharp-OOP-Exams-SoftUni/CSharpOOPExams/OOPExamRetake22August2020/UnitTests-Skeleton/TheRace/obj/Debug/netcoreapp3.1/TheRace.pdb
